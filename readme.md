@@ -7,5 +7,5 @@
 
 ## Implementations
 
-- [versatiles (Rust)](https://github.com/versatiles-org/versatile)
-- [versatiles (Node.js)](https://github.com/yetzt/node-versatiles)
+- [versatiles (Rust)](https://github.com/versatiles-org/versatiles-rs)
+- [versatiles (Node.js)](https://github.com/versatiles-org/node-versatiles)
